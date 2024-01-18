@@ -113,6 +113,7 @@ function setUserName() {
     }    
 }
 
+
 if (!localStorage.getItem("name")) {
     setUserName();
 } else {
@@ -123,3 +124,6 @@ if (!localStorage.getItem("name")) {
 myButton.onclick = () => {
     setUserName();
 }
+
+![image](https://github.com/L-V-D-P/l-v-d-p.github.io/assets/145470098/2c1fc9d8-a821-4fa6-9077-3fdff7f9e541)
+![weasel-face](https://github.com/L-V-D-P/l-v-d-p.github.io/assets/145470098/ad442e35-8a32-4b48-b9d7-fe94e1274f47)
