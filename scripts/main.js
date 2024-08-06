@@ -1,6 +1,6 @@
 const myImage = document.querySelector("img");
 
-myImage.onclick = () => {
+myImage.onmouseenter = () => {
     const mySrc = myImage.getAttribute("src");
     if (mySrc === "/images/image.png"){
         myImage.setAttribute("src", "/images/weasel-face.jpeg");
