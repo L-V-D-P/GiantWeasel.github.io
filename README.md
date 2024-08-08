@@ -1,2 +1,2 @@
-# giantweasel.gituhub.io
+# giantweasel.vercel.app
 just a test-site.
